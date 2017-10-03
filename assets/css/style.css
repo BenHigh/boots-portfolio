@@ -8,6 +8,7 @@ body{
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 20px;
 }
+
 #navi{
 	background: #4aaaa5;
 }
@@ -66,3 +67,8 @@ footer{
     visibility: hidden;
 }
 
+@media screen and (max-width: 991px){
+	#rightContain{
+		width: 97.5%;
+	}
+}
