@@ -67,3 +67,8 @@ footer{
     visibility: hidden;
 }
 
+@media screen and (max-width: 991px){
+	#rightContain{
+		width: 97.5%;
+	}
+}
